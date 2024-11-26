@@ -66,6 +66,7 @@ MSE and Perceptual Loss Combined:
 
 ## Results
 ![Comparison of Training Loss](images/loss.png)
+
 The Residual Connection LSTM outperformed the base model in both training loss and qualitative depth map detail, particularly when trained with the combined loss function.
 
 Below are two further examples of outputs:
